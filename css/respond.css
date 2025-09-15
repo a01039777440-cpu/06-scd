@@ -263,3 +263,13 @@
         width: 40vw;
     }
 }
+@media screen and (max-width:480px) {
+    /* 각 섹션 아래 여백 절반
+    .section-title 절반
+
+    product안에 제목 : 엘사반정 크기 절반 / 위아래 여백 절반
+    뉴스 안쪽 여백 줄이기 / 요소들간에 여백 줄이기
+    버튼 60%로 줄이기
+    footer 위 하얀 여백 절반
+     */
+}
